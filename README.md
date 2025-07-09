@@ -30,3 +30,7 @@
 🌐 Website: [www.rahmx.co.uk](https://www.rahmx.co.uk)
 
 _This is a public demo. Full source code and licensing terms are available upon request._
+
+## 📄 Pitch Pack & Demo
+
+➡️ [Download the TechX Pitch Pack (v1.0.0)](https://github.com/devkhan1/TechX-Demo-Showcase/releases/tag/v1.0.0)
