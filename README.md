@@ -5,7 +5,7 @@
 ---
 
 ### 🔗 Live Demo  
-👉 [View the TechX Live Demo](https://5ba1f83b-163d-47ff-9ffd-6b1e62eb2845-00-2q8esvxo2aqet.picard.replit.dev/)
+👉 [View the TechX Live Demo]()
 
 ---
 
