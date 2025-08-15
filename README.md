@@ -5,7 +5,7 @@
 ---
 
 ### 🔗 Live Demo  
-👉 [View the TechX Live Demo]()
+👉 [View the TechX Live Demo](https://rahmx-reimagined.web.app/)
 
 ---
 
